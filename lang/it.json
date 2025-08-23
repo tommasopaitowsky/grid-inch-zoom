@@ -1,0 +1,8 @@
+{
+  "grid-inch-zoom.autoApply.name": "Applica automaticamente all'apertura scena",
+  "grid-inch-zoom.autoApply.hint": "Allinea lo zoom per avere ~1\" per casella quando il canvas è pronto.",
+  "grid-inch-zoom.calibrationFactor.name": "Fattore di calibrazione",
+  "grid-inch-zoom.calibrationFactor.hint": "Moltiplicatore per correggere differenze tra 1 pollice CSS e 1 pollice reale sul tuo monitor (es. 1.02 = +2%).",
+  "grid-inch-zoom.targetInchesPerSquare.name": "Pollici per casella",
+  "grid-inch-zoom.targetInchesPerSquare.hint": "Per impostazione predefinita è 1.0. Puoi scegliere 0.5\" o 2\" se preferisci caselle più piccole o più grandi."
+}

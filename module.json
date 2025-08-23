@@ -1,0 +1,31 @@
+{
+  "id": "grid-inch-zoom",
+  "title": "Grid Inch Zoom",
+  "description": "Keeps 1 grid square close to 1 physical inch on your monitor, with calibration options.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Tommaso Paitowsky",
+      "url": "https://github.com/tommasopaitowsky"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "esmodules": ["module.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/tommasopaitowsky/grid-inch-zoom/main/module.json",
+  "download": "https://raw.githubusercontent.com/tommasopaitowsky/grid-inch-zoom/main/releases/grid-inch-zoom-1.0.0.zip"
+}
